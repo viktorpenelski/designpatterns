@@ -4,8 +4,10 @@ import com.github.designpatterns.creational.factory.computer.Computer;
 import com.github.designpatterns.creational.factory.computer.ComputerFactory;
 
 /**
- * Simple demo of the Factory design pattern.
- * For more info about the pattern itself, check out {@link ComputerFactory}
+ * This pattern originates from the 1994 "Gang of Four (GOF)".
+ * It is rarely if ever used on its own, but is the backbone behind the more complex Factory Method and Abstract Factory.
+ *
+ * The goal is to expose a factory class that creates objects without exposing creation logic to the client.
  */
 public class FactoryDemo {
     public static void main(String[] args) {
