@@ -6,7 +6,8 @@ popular object oriented design patterns. The language used is Java.
 ## Implemented patterns
 
 ### Creational
-- Factory pattern
+- (Simple) Factory pattern
+- Factory Method
 
 ### Structural
 
